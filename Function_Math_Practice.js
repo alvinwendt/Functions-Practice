@@ -23,8 +23,18 @@
 // You need to write two functions.
 
 // 1. A function to add two values together. This function needs to define two parameters - the two numbers that you want to add together.
+
+const add = (num1, num2) => {
+  return num1 + num2;
+};
+
 // 2. A function to multiply a single number by 2. This function takes one parameter - the number you want to multiply by 2.
+
+const mulitplyby2 = (num1) => {
+  return num1 * 2;
+};
 // 3. In the adding function, add the values of the two parameters and return the result
+
 // 4. In the multiplication function, multiply the value of the single parameter by 2 and return the result.
 
 // ## **Running the Tasks**
